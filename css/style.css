@@ -428,6 +428,7 @@ body {
   .about-content
   {
     flex-direction:column;
+    text-align: justify;
   }
 }
 /* skills */
