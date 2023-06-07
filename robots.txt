@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /resume.pdf
+Disallow: /Mr Jeevaa - Resume .pdf
